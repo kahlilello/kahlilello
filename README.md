@@ -1,4 +1,9 @@
 ## Hi there 👋
+- 🔭 I’m currently working on bettering my coding skills and creating a robust profile.
+- 🌱 I’m currently learning and bettering my SQL and Python skills.
+- ⚡ Fun fact: I've been to over 50 countries!
+
+
 
 <!--
 **kahlilello/kahlilello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
