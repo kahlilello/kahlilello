@@ -22,4 +22,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Untitled design](https://github.com/user-attachments/assets/101dc429-490f-44e9-85de-49e63fafdce5)
+&emsp; &emsp; ![Untitled design-2](https://github.com/user-attachments/assets/74935638-59ca-455a-99c3-1f008d76ad4e)
+
