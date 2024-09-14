@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-&emsp; &emsp; ![Untitled design-2](https://github.com/user-attachments/assets/74935638-59ca-455a-99c3-1f008d76ad4e)
+                    ![Untitled design-3](https://github.com/user-attachments/assets/d0d1f0da-3b74-43b6-bea3-d48339563154)
 
