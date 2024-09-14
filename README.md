@@ -1,5 +1,5 @@
 ![Hi There-3](https://github.com/user-attachments/assets/6da65561-a5d7-4951-a53c-9af628de59b0)
-- 🔭 I’m currently working on bettering my coding skills and building a robust portfolio.
+- 🔭 I’m currently working as a Data Analyst at a S&P 500 Company.
 - 🌱 I’m currently learning and bettering my SQL and Python skills.
 - ⚡ Fun fact: I've been to over 50 countries! 
 
