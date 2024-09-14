@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![A30C1D29-0EB0-4AF5-8519-A8F9CB50EC70_1_105_c](https://github.com/user-attachments/assets/48ac7b18-bfb8-4329-85a3-a9a9f9a8b5c2)
+![Untitled design](https://github.com/user-attachments/assets/101dc429-490f-44e9-85de-49e63fafdce5)
