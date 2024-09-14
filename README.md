@@ -1,4 +1,5 @@
 
+![Hi There](https://github.com/user-attachments/assets/a6729b01-37d6-4cb7-9452-8abb32fc6290)
 
 ## Hi there 👋
 - 🔭 I’m currently working on bettering my coding skills and creating a robust profile.
@@ -22,5 +23,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; ![Untitled design-3](https://github.com/user-attachments/assets/6a6840b3-b504-4868-8dfa-a48577706a49)
 
