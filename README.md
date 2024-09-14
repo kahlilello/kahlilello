@@ -1,5 +1,4 @@
-
-![Hi There](https://github.com/user-attachments/assets/a6729b01-37d6-4cb7-9452-8abb32fc6290)
+![Hi There-3](https://github.com/user-attachments/assets/6da65561-a5d7-4951-a53c-9af628de59b0)
 
 ## Hi there 👋
 - 🔭 I’m currently working on bettering my coding skills and creating a robust profile.
