@@ -3,7 +3,7 @@
 ## Hi there 👋
 - 🔭 I’m currently working on bettering my coding skills and creating a robust profile.
 - 🌱 I’m currently learning and bettering my SQL and Python skills.
-- ⚡ Fun fact: I've been to over 50 countries!
+- ⚡ Fun fact: I've been to over 50 countries! ![Untitled design-3](https://github.com/user-attachments/assets/6a6840b3-b504-4868-8dfa-a48577706a49)
 
 
 
@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; ![Untitled design-3](https://github.com/user-attachments/assets/6a6840b3-b504-4868-8dfa-a48577706a49)
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 
 
