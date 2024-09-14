@@ -1,4 +1,4 @@
-![AEAC273B-78CA-4515-814C-509B694CA3D3_1_105_c](https://github.com/user-attachments/assets/cb61589e-0ddf-4d15-bd52-8a890364c747)
+
 
 ## Hi there 👋
 - 🔭 I’m currently working on bettering my coding skills and creating a robust profile.
