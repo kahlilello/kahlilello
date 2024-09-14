@@ -1,5 +1,4 @@
 
-![AEAC273B-78CA-4515-814C-509B694CA3D3_1_201_a](https://github.com/user-attachments/assets/f6608eba-cbde-4df9-9631-63d14f8ecb85)
 
 ## Hi there 👋
 - 🔭 I’m currently working on bettering my coding skills and creating a robust profile.
@@ -22,3 +21,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![6E6FCED1-3286-48E7-B5D1-20800D29E6D5_1_105_c](https://github.com/user-attachments/assets/4c737e54-f855-4071-970a-d451de37f557)
+![A30C1D29-0EB0-4AF5-8519-A8F9CB50EC70_1_105_c](https://github.com/user-attachments/assets/48ac7b18-bfb8-4329-85a3-a9a9f9a8b5c2)
