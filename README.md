@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Adventuring! ![Untitled design-3](https://github.com/user-attachments/assets/6a6840b3-b504-4868-8dfa-a48577706a49)
-
+<p align="center">
+![Untitled design-3](https://github.com/user-attachments/assets/6a6840b3-b504-4868-8dfa-a48577706a49)
+</p>
 
