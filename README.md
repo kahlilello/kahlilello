@@ -5,6 +5,7 @@
 
 Profile:
 - **My Tableau Public Profile**[link](https://public.tableau.com/app/profile/kahlil.ello/vizzes)
+- - <a href="https://public.tableau.com/app/profile/kahlil.ello/vizzes" target="_blank">**My Tableau Public Profile**</a>
   - [Black Market Dashboard](https://public.tableau.com/app/profile/kahlil.ello/viz/BlackMarket/Main)
 
 <!--
