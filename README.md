@@ -5,7 +5,7 @@
 
 Profile:
 - [My Tableau Public Profile](https://public.tableau.com/app/profile/kahlil.ello/vizzes)
-  - [Black Market Dashboard](https://public.tableau.com/app/profile/kahlil.ello/viz/BlackMoney_17268912643730/Main)
+  - [Black Market Dashboard](https://public.tableau.com/app/profile/kahlil.ello/viz/BlackMarket/Main)
 
 <!--
 **kahlilello/kahlilello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
