@@ -4,7 +4,7 @@
 - ⚡ Fun fact: I've been to over 50 countries! 
 
 Profile:
-- My Tableau Public Profile[link](https://public.tableau.com/app/profile/kahlil.ello/vizzes)
+- **My Tableau Public Profile**[link](https://public.tableau.com/app/profile/kahlil.ello/vizzes)
   - [Black Market Dashboard](https://public.tableau.com/app/profile/kahlil.ello/viz/BlackMarket/Main)
 
 <!--
