@@ -4,6 +4,7 @@
 - ⚡ Fun fact: I've been to over 50 countries! 
 
 Profile:
+- [Tableau Public Profile](https://public.tableau.com/app/profile/kahlil.ello/vizzes)
 - Tableau Public Profile (https://public.tableau.com/app/profile/kahlil.ello/vizzes)
 
 <!--
