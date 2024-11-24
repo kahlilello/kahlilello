@@ -3,9 +3,12 @@
 - 🌱 I’m currently learning and bettering my SQL and Python skills.
 - ⚡ Fun fact: I've been to over 50 countries! 
 
-Profile:
+Portfolio and Profiles:
 - [My Tableau Public Profile](https://public.tableau.com/app/profile/kahlil.ello/vizzes)
   - [Black Market Dashboard](https://public.tableau.com/app/profile/kahlil.ello/viz/BlackMarket/Main)
+- [My Streamlit Profile](https://share.streamlit.io/user/kahlilello)
+  - [Commodities Streamlit](https://commoditiesapp.streamlit.app)
+
 
 <!--
 **kahlilello/kahlilello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
