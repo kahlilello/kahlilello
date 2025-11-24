@@ -1,6 +1,6 @@
 ![Hi There-3](https://github.com/user-attachments/assets/6da65561-a5d7-4951-a53c-9af628de59b0)
-- 🔭 I’m currently working as a Data Analyst at a S&P 500 Company.
-- 🌱 I’m currently learning and bettering my SQL and Python skills.
+- 🔭 I’m currently working as a Data Analyst at one of the fastest growing and tech focused manufacturing companies.
+- 🌱 I’m attending Georgia Tech's Masters of Science in Analytics (OMSA) program.
 - ⚡ Fun fact: I've been to over 50 countries! 
 
 Portfolio and Profiles:
